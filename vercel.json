@@ -8,7 +8,7 @@
     "routes": [
         {
             "src":"/(.*)",
-            "dst":"api/main.py"
+            "dest":"api/main.py"
         }
     ]
 }
